@@ -1,7 +1,15 @@
+IMPORTANT
+===================
+We've made some changes in translation files - please review your translation and make new poll request.
+
 ETS2MP Localization
 ===================
 
 ETS2MP php files that contains translations to many languages. You can contibute your own language.
+
+When my localization will be added to website?
+===================
+As soon as possible - I don't have time to check github everyminute and update all localizations real time. 
 
 How to translate?
 ===================
