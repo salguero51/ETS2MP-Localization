@@ -1,6 +1,6 @@
-IMPORTANT
+Up to date informations about localization
 ===================
-We've made some changes in translation files - please review your translation and make new poll request.
+http://forum.ets2mp.com/index.php?/topic/132-localization-of-homepage/
 
 ETS2MP Localization
 ===================
@@ -25,6 +25,6 @@ Remember: Do not change key. Change only "message".
 
 If you have more questions feel free to ask send them to me:
 
-rootkiller.programmer@gmail.com
+localization@ets2mp.com
 
 Have fun.
