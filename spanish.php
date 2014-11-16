@@ -1,5 +1,5 @@
 <?php>
-$_lang["download"] = "Descarga";
+$_lang["download"] = "Descargar";
 $_lang["home"] = "Inicio";
 $_lang["status"] = "Estado";
 $_lang["username"] = "Usuario";
@@ -19,7 +19,6 @@ $_lang["already.logged"] = "Ya estás conectado.";
 $_lang["welcome"] = "Bienvenido";
 $_lang["logout"] = "Cerrar sesión";
 $_lang["bans"] = "Bans";
-$_lang["download"] = "Descarga";
 $_lang["version"] = "Versión";
 $_lang["update.time"] = "Actualizado";
 $_lang["req.game.version"] = "Versión del juego requerida";
@@ -86,3 +85,4 @@ $_lang["topic"] = "Asunto";
 $_lang["contact.message.too.short"] = "El mensaje es demasiado corto. Mínimo 10 carácteres.";
 $_lang["contact.topic.too.short"] = "El asunto es demasiado corto. Mínimo 10 carácteres.";
 $_lang["invalid.mail.forgot.password"] = "No encontramos ninguna cuenta con este E-Mail.";
+$_lang["error.cannot.fetch.steam.api"] = "No se puede obtener la información de tu perfil de Steam. Intentalo más tarde.";
