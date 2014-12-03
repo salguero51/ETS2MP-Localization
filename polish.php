@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				polish.php
+// Language name: 		Polish
+// Translated name: 	Polski
+//
+
 $_lang["download"] = "Pobierz";
 $_lang["home"] = "Strona główna";
 $_lang["status"] = "Status serwerów";
@@ -85,3 +92,19 @@ $_lang["topic"] = "Temat";
 $_lang["contact.message.too.short"] = "Wiadomość jest za krótka. Minimalnie 10 znaków.";
 $_lang["contact.topic.too.short"] = "Temat jest zbyt krótki. Minimalnie 10 znaków.";
 $_lang["invalid.mail.forgot.password"] = "Nie udało się znaleźć konta według podanego adresu e-mail.";
+$_lang["steamid.in.use"] = "Znaleźliśmy konto ETS2MP powiązane z tym kontem Steam. Jeśli potrzebujesz pomocy <a href=\"http://ets2mp.com/support/\">stwórz zgłoszenie</a>.";
+$_lang["mail.does.not.match"] = "Podane adresy e-mail nie pasują do siebie.";
+$_lang["support"] = "Pomoc";
+
+$_lang["profile"] = "Profil";
+$_lang["group"] = "Grupa";
+$_lang["banned"] = "Zbanowany";
+$_lang["state"] = "Stan";
+$_lang["account.is.activated"] = "Konto aktywowane";
+$_lang["account.isnt.actiated"] = "Konto nieaktywne";
+$_lang["penalty.history"] = "Historia kar";
+$_lang["no.punishments"] = "Brak kar do wyświetlenia";
+$_lang["date"] = "Data";
+$_lang["reason"] = "Powód";
+$_lang["type"] = "Typ";
+$_lang["penalty.limit"] = "Tylko właściciel tego profilu może widzieć dłuższą historie kar.";

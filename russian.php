@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				russian.php
+// Language name: 		Russian
+// Translated name: 	Русский
+//
+
 $_lang["download"] = "Скачать";
 $_lang["home"] = "Главная";
 $_lang["status"] = "Статус серверов";
@@ -85,3 +92,18 @@ $_lang["topic"] = "Тема";
 $_lang["contact.message.too.short"] = "Сообщение слишком короткое. Оно должно содержать не менее 10 символов.";
 $_lang["contact.topic.too.short"] = "Название темы слишком короткое. Оно должно быть не менее 10 символов.";
 $_lang["invalid.mail.forgot.password"] = "Учетной записи, зарегистрированной на эту электронную почту, не существует.";
+$_lang["steamid.in.use"] = "Мы обнаружили, что аккаунт ETS2MP уже связан с данным Steam аккаунтом. Если у вас имеются проблемы с регистрацией - пожалуйста, <a href=\"http://ets2mp.com/index.php?page=contact\">свяжитесь с нами</a>.";
+$_lang["mail.does.not.match"] = "Указанные адреса электронной почты не совпадают.";
+$_lang["support"] = "Support";
+$_lang["profile"] = "Profile";
+$_lang["group"] = "Group";
+$_lang["banned"] = "Banned";
+$_lang["state"] = "State";
+$_lang["account.is.activated"] = "Account is activated";
+$_lang["account.isnt.actiated"] = "Account is not activated";
+$_lang["penalty.history"] = "Penalty history";
+$_lang["no.punishments"] = "No punishments to display.";
+$_lang["date"] = "Date";
+$_lang["reason"] = "Reason";
+$_lang["type"] = "Type";
+$_lang["penalty.limit"] = "Only owner of this profile can see longer history of penalties.";

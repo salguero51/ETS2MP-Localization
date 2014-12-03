@@ -1,4 +1,11 @@
 <?php
+//
+// ETS2MP Homepage language file.
+// File:				french.php
+// Language name: 		French
+// Translated name: 	Français
+//
+
 $_lang["download"] = "Télécharger";
 $_lang["home"] = "Page d'accueil";
 $_lang["status"] = "Statut";
@@ -77,11 +84,26 @@ $_lang["invalid.old.password"] = "L'ancien mot de passe est invalide, impossible
 $_lang["no.password.change.forced"] = "Pour réinitialiser le mot de passe, vous devez être déconnecté.";
 $_lang["password.reminder.edit.account"] = "Mot de passe oublié ? Cliquez <a href=\"index.php?page=resetPassword\">ici</a>.";
 $_lang["contact"] = "Contact";
-$_lang["your.mail"] = "Your e-mail";
-$_lang["content"] = "Content";
-$_lang["send"] = "Send";
-$_lang["contact.message.sent"] = "Thank you for contacting us. Please wait for reply.";
-$_lang["topic"] = "Topic";
-$_lang["contact.message.too.short"] = "Message is too short. Minimum 10 characters.";
-$_lang["contact.topic.too.short"] = "Topic is too short. Minimum 10 characters.";
-$_lang["invalid.mail.forgot.password"] = "We are unable to find any account with this mail.";
+$_lang["your.mail"] = "Votre e-mail";
+$_lang["content"] = "Message";
+$_lang["send"] = "Envoyer";
+$_lang["contact.message.sent"] = "Merci de nous avoir contacté.Veuillez attendre la réponse.";
+$_lang["topic"] = "Sujet";
+$_lang["contact.message.too.short"] = "Le message est trop court. Minimum 10 caractères.";
+$_lang["contact.topic.too.short"] = "Le sujet est trop court. Minimum 10 caractères.";
+$_lang["invalid.mail.forgot.password"] = "Nous n'avions pas retrouvé de compte lié à cet adresse e-mail.";
+$_lang["steamid.in.use"] = "Nous avons trouvé un compte ETS2MP lié à ce compte steam. Si vous avez des problèmes d'inscriptions <a href=\"http://ets2mp.com/index.php?page=contact\">contactez-nous</a>.";
+$_lang["mail.does.not.match"] = "Les adresses e-mails mentionés ne sont pas les mêmes.";
+$_lang["support"] = "Support";
+$_lang["profile"] = "Profil";
+$_lang["group"] = "Groupe";
+$_lang["banned"] = "Banni";
+$_lang["state"] = "Statut";
+$_lang["account.is.activated"] = "Compte activé";
+$_lang["account.isnt.actiated"] = "Compte non activé";
+$_lang["penalty.history"] = "Historique des pénalités";
+$_lang["no.punishments"] = "Pas de pénalités à afficher.";
+$_lang["date"] = "Date";
+$_lang["reason"] = "Raison";
+$_lang["type"] = "Type";
+$_lang["penalty.limit"] = "Seul le propriétaire de ce profil peut voir plus d'historique de pénalités.";
