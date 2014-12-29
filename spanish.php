@@ -1,4 +1,4 @@
-<?php>
+<?php
 //
 // ETS2MP Homepage language file.
 // File: spanish.php
